@@ -20,10 +20,10 @@
   ## APP PREVIEW
 
 <p align="center">
-  <img src="./images/1.png" alt="accessibility text">
-  <img src="./images/2.png" title="hover text">
-  <img src="./images/2.png" title="hover text">
-  <img src="./images/2.png" title="hover text">
+  <img src="./images/1.png" width="340" alt="accessibility text" width=>
+  <img src="./images/2.png" width="340" title="hover text">
+  <img src="./images/2.png" width="340" title="hover text">
+  <img src="./images/2.png" width="340" title="hover text">
  
 </p>
 
