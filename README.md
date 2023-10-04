@@ -1,5 +1,6 @@
  <p align="center">
-  <img align= "center" src="https://www.linkpicture.com/q/akshat_bg.jpg" style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" />
+
+![Akshat Sachan](https://drive.google.com/uc?id=1ytvxXV_6FFZzt71OToGbZ9c4I0TOpwhQ)
   
 </p>
 
